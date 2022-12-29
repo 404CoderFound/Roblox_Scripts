@@ -37,7 +37,7 @@ end)
 
 
 
-her
+
 local Other = Window:NewTab("Other")
 local OtherSection = Other:NewSection("Other")
 OtherSection:NewButton("Chat Spoofer", "Lets you chat for other people", function()
